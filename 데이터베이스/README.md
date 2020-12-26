@@ -21,3 +21,5 @@
     13. [트랜잭션](https://github.com/byeunsungjae/Computer_Science/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
     14. [트리거&프로시저](https://github.com/byeunsungjae/Computer_Science/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%ED%8A%B8%EB%A6%AC%EA%B1%B0%26%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%80.md)
     15. [JDBC&ODBC](https://github.com/byeunsungjae/Computer_Science/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/JDBC%26ODBC.md)
+    16. [인덱스](https://github.com/byeunsungjae/Computer_Science/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%9D%B8%EB%8D%B1%EC%8A%A4.md)
+    17. [RDBMS](https://github.com/byeunsungjae/Computer_Science/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/RDBMS.md)
