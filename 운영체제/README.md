@@ -7,7 +7,13 @@
   4. (프로세스 스레드 개념)[https://www.notion.so/bad46ae1121f4c288b33b801b1ff4ace]
   5. (인터럽트와 시스템 콜)[https://www.notion.so/d097b9912fd84319946d05fcf324eac8]
   6. (IPC란?)[https://www.notion.so/IPC-6672777802604b288586e37caded825d]
-  
+  7. (데드락과 해결방법)[https://www.notion.so/aad32463da62472f919bbfd211ceaaff]
+  8. (임계영역,세마포어 뮤텍스 모니터)[https://www.notion.so/53a5b47794c24c34a4170320c2328f3e]
+  9. (CPU 스케줄링이란?)[https://www.notion.so/CPU-0335a2158ac241ce9be868e5a2434bc7]
+  10. (프로세스 스케줄링의 종류와 예시)[https://www.notion.so/2b56dd4eaf564173bc04fc41b587c087]
+  11. (가상메모리의 정의와 구현 방법)[https://www.notion.so/31dd43e5b7524fae913b7b73138bee86]
+  12. (페이지 교체 알고리즘)[https://www.notion.so/8931a25925d843b4a83d407fdf932ec9]
+  13. (페이징과 세그멘테이션의 차이)[https://www.notion.so/56166e4867f94f2b9566d21ec5c8f6f3]
   
   
   
